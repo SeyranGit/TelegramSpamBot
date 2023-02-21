@@ -14,7 +14,7 @@ except (FileNotFoundError, json.decoder.JSONDecodeError):
         },
         "bot": {
             "token": "Bot Token",
-            "key": "3djsf3489uo43jr89u023-=324890uf8uddsjf2389",
+            "key": "dsak32fsdklf4903[fdsdfsgdsWEEf5834jlksdjaflds",
             "set-key": False,
         },
         "announcements": {},
