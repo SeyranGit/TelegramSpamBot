@@ -546,7 +546,7 @@ class ClientRequestHandler(ConnectToTelegramClient, MainFunctions):
                     self.wordtwotype.append(word)
 
                 elif self.active_action == "word-option-3":
-                    self.wordtwotype.append(word)
+                    self.wordthreetype.append(word)
 
         else:
             return True
