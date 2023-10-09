@@ -37,11 +37,4 @@ class ReplyKeyboardMarkupInstnace(ReplyKeyboardMarkup):
                 self.add(*(KeyboardButton(button_name)
                            for button_name in button_names))
 
-        # for row_button_names in rows:
-        #     self.row(*(KeyboardButton(button_name)
-        #                for button_name in row_button_names))
-        #
-        # for add_button_names in adds:
-        #     print(add_button_names)
-
 
